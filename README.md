@@ -1,9 +1,8 @@
-# Project 2 : Group 3
+# Project 2 : Group 13
 ## Project Summary
 ## Team Members:
-### Andrew Fellowes
-### Jai Gupta
+### Graham Meadon
 ### Micah Raquena-Pequeno
-### Rachel Drayton
+### Richard Soos
 ## Project Resources
 ## Instructions
