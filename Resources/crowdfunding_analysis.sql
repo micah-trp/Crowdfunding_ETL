@@ -1,5 +1,5 @@
 --Project 2 SQL 
---crowd funding script
+--crowd funding script - select top 10 from each to confirm data has been imported
 
 SELECT * FROM campaign
 LIMIT 10;
@@ -10,7 +10,7 @@ LIMIT 10;
 SELECT * FROM contacts
 LIMIT 10;
 
---Join top 10 campaign & Contact by amount where successful
+--Display Key values and group by Currency in order of pledge highest to lowest 
 --validate the category and subcategory are correct
 
 SELECT 
