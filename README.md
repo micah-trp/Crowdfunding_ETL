@@ -20,7 +20,7 @@
 ### business subcategory.
 #
 ## Key Files
-###  ELT_Mini_Project_MRaquenaPequeno.ipynb
+###  ELT_Mini_Project_Group10.ipynb
 ###  campaign.csv 
 ###  category.csv
 ###  contacts.csv
