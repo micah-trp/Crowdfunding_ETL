@@ -1,10 +1,13 @@
 ## Data Visualisation Monash Boot Camp. Crowdfunding_ETL Project 2 Group 10. 
-## Contributors: Micah Raquena, Graham Meadon, Richard Soos
-## Project Technology: This project is written in Python with Pandas extensions to receive xlsx data.
-##                     The final data relationships have been shown in Postgres Database.
+### Contributors: Micah Raquena-Pequeno, Graham Meadon, Richard Soos
+
+### Project Technology: This project is written in Python with Pandas extensions to receive xlsx data.
+###                     The final data relationships have been shown in Postgres Database.
+
 ## Project Aim: To convert flat files from 2 xlsx data sheets into a relational database using ETL techniques.
+
 ## Project Concept: 
-###Crowdfunding data has been supplied,  listed by company, with their support backers,
+### Crowdfunding data has been supplied,  listed by company, with their support backers,
 ### contributions towards financial goal, dates of campaign start and close and campaign status. A further 
 ### contacts data sheet was supplied of business/campaign owner. The data is not normalised as so far the 
 ### categories are by category_id/subcategory_id. By creating an index for each unique category_id  and 
@@ -13,6 +16,11 @@
 ### The resultant database is easier to query the fortune of crowdfunding campaigns by business category or 
 ### business subcategory.
 #
+## Key Files
+### - ELT_Mini_Project_MRaquenaPequeno.ipynb
+### - Resources Folde:
+ ### - 
+
 ## To run the code:  
 ### The directory structure in git hub has all files in their appropriate place.
 ### The starter Jupyter file may be run in Visual Studio. Set the local directory in Visual Studio to that file 
