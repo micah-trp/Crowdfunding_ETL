@@ -1,10 +1,13 @@
 ## Data Visualisation Monash Boot Camp. Crowdfunding_ETL Project 2 Group 10. 
-### Contributors: Micah Raquena-Pequeno, Graham Meadon, Richard Soos
+## Contributors: 
+### Micah Raquena-Pequeno, Graham Meadon, Richard Soos
 #
-### Project Technology: This project is written in Python with Pandas extensions to receive xlsx data.
+## Project Technology: 
+###                     This project is written in Python with Pandas extensions to receive xlsx data.
 ###                     The final data relationships have been shown in Postgres Database.
 #
-## Project Aim: To convert flat files from 2 xlsx data sheets into a relational database using ETL techniques.
+## Project Aim: 
+###To convert flat files from 2 xlsx data sheets into a relational database using ETL techniques.
 #
 ## Project Concept: 
 ### Crowdfunding data has been supplied,  listed by company, with their support backers,
@@ -17,7 +20,7 @@
 ### business subcategory.
 #
 ## Key Files
-### - ELT_Mini_Project_MRaquenaPequeno.ipynb
+###  ELT_Mini_Project_MRaquenaPequeno.ipynb
 ###  campaign.csv 
 ###  category.csv
 ###  contacts.csv
